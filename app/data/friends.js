@@ -7,43 +7,43 @@
 
 var friendsArray = [
   {
-    name: "Ahmed",
+    name: "Abe Lincoln",
     photo:
-      "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+      "https://www.encyclopedia.com/sites/default/files/4/2793330.jpg",
     scores: ["5", "1", "4", "4", "5", "1", "2", "5", "4", "1"]
   },
   {
-    name: "Jacob Deming",
+    name: "Elon Musk",
     photo:
-      "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+      "https://amp.businessinsider.com/images/5ab16de1e72a031a008b45ff-750-563.jpg",
     scores: ["4", "2", "5", "1", "3", "2", "2", "1", "3", "2"]
   },
   {
-    name: "Jeremiah Scanlon",
-    photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+    name: "Chris Hemsworth",
+    photo: "https://vignette.wikia.nocookie.net/marvelmovies/images/7/73/Chris_Hemsworth.jpg/revision/latest?cb=20170325120656",
     scores: ["5", "2", "2", "2", "4", "1", "3", "2", "5", "5"]
   },
   {
-    name: "Louis T. Delia",
+    name: "Ice Cube",
     photo:
-      "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+      "https://www.thefamouspeople.com/profiles/images/ice-cube-3.jpg",
     scores: ["3", "3", "4", "2", "2", "1", "3", "2", "2", "3"]
   },
   {
-    name: "Lou Ritter",
+    name: "Chris Pratt",
     photo:
-      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+      "http://cdn.skim.gs/images/c_fill,dpr_1.0,f_auto,fl_lossy,h_391,q_auto,w_695/chris-pratt-shallow-actors/chris-pratt-reveals-in-gq-interview-how-shallow-famous-people-are",
     scores: ["4", "3", "4", "1", "5", "2", "5", "3", "1", "4"]
   },
   {
-    name: "Jordan Biason",
+    name: "Emma Stone",
     photo:
-      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+      "https://images1.phoenixnewtimes.com/imager/u/745xauto/9000974/emma-stone-denis_makarenko-shutterstock.com.jpg",
     scores: ["4", "4", "2", "3", "2", "2", "3", "2", "4", "5"]
   },
   {
-    name: "newby mcgee",
-    photo: "http://dreamstop.com/wp-content/uploads/2016/08/llama-dreams.jpg",
+    name: "Emily Blunt",
+    photo: "https://media.brides.com/photos/580e35f3373709e11243fdb2/1:1/w_767/blogs-aisle-say-emily-blunt-makeup-th.jpg",
     scores: ["3", "3", "3", "3", "3", "3", "3", "3", "3", "3"]
   }
 ];
