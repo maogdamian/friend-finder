@@ -43,7 +43,7 @@ if(validateForm()){
     $("#match-name").text(data.name);
     $("#match-img").attr("src", data.photo);
 
-    // Show the modal with the best match
+    // Show matches
     $("#results-modal").modal("toggle");
   });
 
